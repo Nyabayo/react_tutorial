@@ -23,7 +23,7 @@ function App() {
         <Student name="Sophia" age={20} isStudent={true} />
         <Student name="Daniel" age={22} isStudent={true} />
         <Student name="Olivia" age={24} isStudent={false} />
-        //This will use defaultProps because no props are passed
+        {/*//This will use defaultProps because no props are passed*/}
         <Student  />
 
     </>
