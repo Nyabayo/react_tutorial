@@ -1,0 +1,9 @@
+.Student{
+  font-family: Aerial, sans-serif;
+  font-size: 2rem;
+  padding: 10px;
+  border: 1px solid hsla(0, 0%, 50%, 0.8);
+}
+.Student p{
+  margin: 0;
+}

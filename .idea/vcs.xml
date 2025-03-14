@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+=======
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/card_components" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my_react_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react_tutorial" vcs="Git" />
+>>>>>>> 1b1cb8f (render lists)
   </component>
 </project>
